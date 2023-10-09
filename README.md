@@ -2,7 +2,7 @@
 
 A simple web application that allows you to play drum sounds by pressing keys on your keyboard.
 
-![JavaScript Drum Kit](JavaScript Drum Kit.png)
+![JavaScript Drum Kit](https://github.com/somayehva/JavaScript-Drum-Kit/assets/104285575/9d6cbd77-7048-4b2e-aedf-3c78807b09c1)
 
 JavaScript Drum Kit.png
 ## Table of Contents
