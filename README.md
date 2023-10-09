@@ -1,6 +1,6 @@
 # JavaScript Drum Kit
 
-A simple web application that allows you to play drum sounds by pressing keys on your keyboard.
+A simple web application that allows user to play drum sounds by pressing keys on the keyboard.
 
 ![JavaScript Drum Kit](https://github.com/somayehva/JavaScript-Drum-Kit/assets/104285575/9d6cbd77-7048-4b2e-aedf-3c78807b09c1)
 
@@ -25,34 +25,11 @@ You can try the live demo [here](link-to-your-live-demo).
 
 ## Features
 
-- Keyboard Interaction: Play drum sounds effortlessly by pressing the keys 'A', 'S', 'D', 'F', 'G', 'H', 'J', 'K', or 'L' on your keyboard.
+- Keyboard Interaction: Play drum sounds effortlessly by pressing the keys 'A', 'S', 'D', 'F', 'G', 'H', 'J', 'K', or 'L' on keyboard.
 
 - Visual Feedback: Experience responsive visual feedback as the pressed key is displayed on the screen with a subtle animation effect, enhancing the user experience.
 
 - Intuitive UI: Interact with an intuitive user interface that simplifies drumming, making it accessible to users of all skill levels.
-
-- Sound Library: Enjoy a carefully curated collection of high-quality drum sounds that provide an authentic drumming experience.
-
-- Customizable: Easily customize the drum kit by replacing the default sounds with your preferred drum samples, giving you creative freedom.
-
-## How to Use
-
-1. Clone the repository:
-
-   ```sh
-   git clone https://github.com/your-username/js-drum-kit.git
-
-## Contribution
-
-Contributions are welcome! If you would like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them.
-4. Push your changes to your fork.
-5. Submit a pull request.
-
-Please make sure to follow the [code of conduct](CODE_OF_CONDUCT.md).
 
 ## License
 
