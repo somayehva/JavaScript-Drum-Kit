@@ -4,18 +4,9 @@ A simple web application that allows user to play drum sounds by pressing keys o
 
 ![JavaScript Drum Kit](https://github.com/somayehva/JavaScript-Drum-Kit/assets/104285575/9d6cbd77-7048-4b2e-aedf-3c78807b09c1)
 
-JavaScript Drum Kit.png
-## Table of Contents
-- [Demo](#demo)
-- [Technologies Used](#technologies-used)
-- [Features](#features)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Demo
 
-You can try the live demo [here](link-to-your-live-demo).
+You can try the live demo [here](http://somayeh.me/drum-kit/).
 
 ## Technologies Used
 
@@ -33,5 +24,5 @@ You can try the live demo [here](link-to-your-live-demo).
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
