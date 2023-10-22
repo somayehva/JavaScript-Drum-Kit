@@ -25,4 +25,3 @@ You can try the live demo [here](http://somayeh.me/drum-kit/).
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
